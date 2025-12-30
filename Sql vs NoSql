@@ -1,3 +1,21 @@
 Structured vs Semi structured vs Un Structured Data
 
 Image and Video processing is not possible with Sql - RDBMS
+
+NoSql - Not only Sql?
+NoSql is used for BigData
+NoSql is Schema free
+Ex: Twitter, Facebook, Google
+
+Ex: Mongo DB
+Apache Hbase
+Amazon DynamoDB
+Cassandra
+HyperTable?
+
+Types of NoSql Databases
+
+-> Key Value database
+-> Document Database
+-> Column Oriented Database
+-> Graph Database
